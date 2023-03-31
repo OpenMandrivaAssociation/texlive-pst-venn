@@ -1,6 +1,6 @@
 Name:		texlive-pst-venn
 Version:	49316
-Release:	1
+Release:	2
 Summary:	A PSTricks package for drawing Venn sets
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-venn
