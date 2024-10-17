@@ -3,7 +3,7 @@ Version:	49316
 Release:	2
 Summary:	A PSTricks package for drawing Venn sets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-venn
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-venn
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-venn.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-venn.doc.r%{version}.tar.xz
